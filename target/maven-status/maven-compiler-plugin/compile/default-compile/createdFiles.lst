@@ -1,0 +1,8 @@
+com/vixit/VixitBankApplication.class
+com/vixit/controller/BalanceController.class
+com/vixit/controller/ContactController.class
+com/vixit/controller/CardsController.class
+com/vixit/config/VixitBankSecurityConfig.class
+com/vixit/controller/NoticesController.class
+com/vixit/controller/AccountController.class
+com/vixit/controller/LoansController.class

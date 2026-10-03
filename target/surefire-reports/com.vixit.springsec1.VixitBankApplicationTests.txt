@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.vixit.springsec1.VixitBankApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.978 s -- in com.vixit.springsec1.VixitBankApplicationTests
